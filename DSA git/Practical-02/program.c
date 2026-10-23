@@ -1,3 +1,7 @@
+// Name: Yuvraj Subhash More
+// Roll No.: SEA72
+// Practical No. 1
+
 #include <stdio.h>
 typedef struct
 {
