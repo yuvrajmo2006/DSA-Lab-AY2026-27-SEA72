@@ -2,12 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*
-Name: Pranav Gajanan Daud
-Roll No.: SEA59
-Practical No. 8
-*/
-
 struct Node
 {
     char name[50];
