@@ -1,9 +1,3 @@
-// Name: Yuvraj Subhash More
-// Roll No.: SEA72
-// Practical No. 1
-//Student Result Database Management Using Array of Structures
-
-
 #include <stdio.h>
 typedef struct
 {
