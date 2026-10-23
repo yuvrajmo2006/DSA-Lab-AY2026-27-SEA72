@@ -1,8 +1,3 @@
-// Name: Yuvraj Subhash More
-// Roll No.: SEA72
-// Practical No. 1
-// Program to display different patterns using numbers, alphabets, and asterisks.
-
 #include <stdio.h>
 
 int main()
